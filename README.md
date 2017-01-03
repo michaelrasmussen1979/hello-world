@@ -1,4 +1,4 @@
 # hello-world
 First repository as per guide
 
-First branch from the master as per guide.
+Second branch, re-editing for future reference
